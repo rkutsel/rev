@@ -1,7 +1,7 @@
 # EV Charging Station Locator
 
-- View GitHub [Repo](https://github.com/Ofelia1870/charging-station-finder)
-- View [Webpage](https://ofelia1870.github.io/charging-station-finder/)
+- View GitHub [Repo](https://github.com/rkutsel/rev)
+- View [Webpage](https://rkutsel.github.io/rev/)
 
 ## Table of Contents
 
